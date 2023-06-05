@@ -4,7 +4,7 @@ from django.shortcuts import render
 
 # Add this cats list below the imports
 finches = [
-  {'name': 'Loki', 'species': 'Red Crossbill', 'description': 'happy a loud', 'age': 3},
+  {'name': 'Loki', 'species': 'Red Crossbill', 'description': 'happy and loud', 'age': 3},
   {'name': 'Puchi', 'species': 'Evening Grosbeak', 'description': 'cute and colorful', 'age': 2},
 ]
 
